@@ -11,6 +11,13 @@ jupyter = "^1.0.0"
 scikit-learn = "^0.24.0"
 tqdm = "^4.55.0"
 lightgbm = "^3.1.1"
+matplotlib = "^3.3.4"
+seaborn = "^0.11.1"
+opencv-python = "^4.5.1"
+torch = "^1.7.1"
+torchvision = "^0.8.1"
+albumentations = "^0.5.2"
+timm = "^0.3.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.1"
