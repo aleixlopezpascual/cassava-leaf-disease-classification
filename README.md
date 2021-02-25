@@ -1,4 +1,4 @@
-# osic-pulmonary-fibrosis-progression
+# cassava-leaf-disease-classification
 Kaggle competition 2021-02
 
 https://www.kaggle.com/c/cassava-leaf-disease-classification
